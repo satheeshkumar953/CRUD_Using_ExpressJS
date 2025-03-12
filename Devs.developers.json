@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae3c"
+  },
+  "name": "Alice Johnson",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js"
+  ],
+  "phoneNumber": "+12345678901",
+  "location": "New York"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae3d"
+  },
+  "name": "Bob Smith",
+  "skills": [
+    "Python",
+    "Django",
+    "Machine Learning"
+  ],
+  "phoneNumber": "+19876543210",
+  "location": "San Francisco"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae3e"
+  },
+  "name": "Charlie Brown",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Microservices"
+  ],
+  "phoneNumber": "+15551234567",
+  "location": "Los Angeles"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae3f"
+  },
+  "name": "David Lee",
+  "skills": [
+    "C#",
+    ".NET",
+    "Azure"
+  ],
+  "phoneNumber": "+14443332211",
+  "location": "Seattle"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae40"
+  },
+  "name": "Eve Adams",
+  "skills": [
+    "PHP",
+    "Laravel",
+    "MySQL"
+  ],
+  "phoneNumber": "+13332221144",
+  "location": "Chicago"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae41"
+  },
+  "name": "Frank White",
+  "skills": [
+    "Ruby",
+    "Rails",
+    "PostgreSQL"
+  ],
+  "phoneNumber": "+12223334455",
+  "location": "Boston"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae42"
+  },
+  "name": "Grace Hall",
+  "skills": [
+    "Go",
+    "Docker",
+    "Kubernetes"
+  ],
+  "phoneNumber": "+16667778899",
+  "location": "Austin"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae43"
+  },
+  "name": "Henry Clark",
+  "skills": [
+    "Swift",
+    "iOS Development",
+    "Objective-C"
+  ],
+  "phoneNumber": "+17778889900",
+  "location": "San Diego"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae44"
+  },
+  "name": "Isla Martinez",
+  "skills": [
+    "Kotlin",
+    "Android Development",
+    "Jetpack Compose"
+  ],
+  "phoneNumber": "+18889990011",
+  "location": "Miami"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae45"
+  },
+  "name": "Jack Wilson",
+  "skills": [
+    "Rust",
+    "WebAssembly",
+    "Blockchain"
+  ],
+  "phoneNumber": "+19990001122",
+  "location": "Denver"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae46"
+  },
+  "name": "Katie Brooks",
+  "skills": [
+    "TypeScript",
+    "Angular",
+    "RxJS"
+  ],
+  "phoneNumber": "+12229998877",
+  "location": "Dallas"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae47"
+  },
+  "name": "Leo Scott",
+  "skills": [
+    "C",
+    "Embedded Systems",
+    "RTOS"
+  ],
+  "phoneNumber": "+15556667788",
+  "location": "Phoenix"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae48"
+  },
+  "name": "Mia Foster",
+  "skills": [
+    "Scala",
+    "Akka",
+    "Play Framework"
+  ],
+  "phoneNumber": "+14442223355",
+  "location": "Philadelphia"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae49"
+  },
+  "name": "Noah King",
+  "skills": [
+    "Perl",
+    "Bash Scripting",
+    "Linux"
+  ],
+  "phoneNumber": "+17776665544",
+  "location": "Portland"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae4a"
+  },
+  "name": "Olivia Green",
+  "skills": [
+    "Haskell",
+    "Functional Programming",
+    "Elm"
+  ],
+  "phoneNumber": "+18887774433",
+  "location": "Nashville"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae4b"
+  },
+  "name": "Peter Nelson",
+  "skills": [
+    "Elixir",
+    "Phoenix",
+    "Erlang"
+  ],
+  "phoneNumber": "+13334445522",
+  "location": "Las Vegas"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae4c"
+  },
+  "name": "Quinn Moore",
+  "skills": [
+    "Clojure",
+    "Lisp",
+    "Data Science"
+  ],
+  "phoneNumber": "+15559990033",
+  "location": "Minneapolis"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae4d"
+  },
+  "name": "Ryan Stewart",
+  "skills": [
+    "F#",
+    "Machine Learning",
+    "AI"
+  ],
+  "phoneNumber": "+14447778822",
+  "location": "Houston"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae4e"
+  },
+  "name": "Sophia Turner",
+  "skills": [
+    "Dart",
+    "Flutter",
+    "Firebase"
+  ],
+  "phoneNumber": "+13335556611",
+  "location": "San Antonio"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae4f"
+  },
+  "name": "Tom Rogers",
+  "skills": [
+    "Shell Scripting",
+    "DevOps",
+    "AWS"
+  ],
+  "phoneNumber": "+16668889900",
+  "location": "Charlotte"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae50"
+  },
+  "name": "Uma Bennett",
+  "skills": [
+    "Julia",
+    "Data Science",
+    "Deep Learning"
+  ],
+  "phoneNumber": "+17772223344",
+  "location": "Atlanta"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae51"
+  },
+  "name": "Victor Harris",
+  "skills": [
+    "VB.NET",
+    "Windows Forms",
+    "SQL Server"
+  ],
+  "phoneNumber": "+15557776699",
+  "location": "Kansas City"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae52"
+  },
+  "name": "Wendy Parker",
+  "skills": [
+    "COBOL",
+    "Mainframe",
+    "Legacy Systems"
+  ],
+  "phoneNumber": "+14448889911",
+  "location": "New Orleans"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae53"
+  },
+  "name": "Xavier Campbell",
+  "skills": [
+    "Matlab",
+    "Simulink",
+    "Control Systems"
+  ],
+  "phoneNumber": "+18882223366",
+  "location": "Detroit"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae54"
+  },
+  "name": "Yara Collins",
+  "skills": [
+    "Fortran",
+    "Scientific Computing",
+    "Numerical Analysis"
+  ],
+  "phoneNumber": "+13336665577",
+  "location": "Salt Lake City"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae55"
+  },
+  "name": "Zane Richardson",
+  "skills": [
+    "Prolog",
+    "Artificial Intelligence",
+    "Logic Programming"
+  ],
+  "phoneNumber": "+16665559988",
+  "location": "Indianapolis"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae56"
+  },
+  "name": "Ashley Ford",
+  "skills": [
+    "R",
+    "Data Analysis",
+    "Machine Learning"
+  ],
+  "phoneNumber": "+19992223344",
+  "location": "Baltimore"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae57"
+  },
+  "name": "Brian Cooper",
+  "skills": [
+    "Objective-C",
+    "iOS Development",
+    "Swift"
+  ],
+  "phoneNumber": "+15554447700",
+  "location": "Memphis"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae58"
+  },
+  "name": "Carla Simmons",
+  "skills": [
+    "Golang",
+    "GraphQL",
+    "Backend Development"
+  ],
+  "phoneNumber": "+14446667788",
+  "location": "Oklahoma City"
+},
+{
+  "_id": {
+    "$oid": "67cec5fdff9fe947d599ae59"
+  },
+  "name": "Derek Wallace",
+  "skills": [
+    "SQL",
+    "Database Management",
+    "PostgreSQL"
+  ],
+  "phoneNumber": "+17778880055",
+  "location": "Louisville"
+}]
